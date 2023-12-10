@@ -2,4 +2,4 @@
 - 👀 I’m interested in way to many things but everything TECH
 - 🌱 I’m currently learning Web Dev & Software Engineering
 - 📫 How to reach me -Inbox on Github if you need me
-- Note : I'll put some time into something more creative when my brain returns.
+- Note : I'll put some time into something more creative for this .readme when my brain returns.
