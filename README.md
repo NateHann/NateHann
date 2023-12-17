@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NateHann
 - 👀 I’m interested in way to many things but everything TECH
-- 🌱 I’m currently learning Web Dev & Software Engineering
+- 🌱 I’m a part time student in full stack Web Dev & Software Engineering,with a full time job.
 - 📫 How to reach me -Inbox on Github if you need me
 - Note : I'll put some time into something more creative for this .readme when my brain returns.
