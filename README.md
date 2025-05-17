@@ -2,22 +2,31 @@
 
 ## About Me 🚀
 
-- **Interests:** I'm passionate about all things **TECH**! My curiosity spans a wide range of technological fields, and I'm always excited to explore new areas.
-- **Learning Journey:** Currently, I'm diving deep into **Web Development** and **Software Engineering**. The world of code is vast and I'm on a thrilling expedition to master it!
-- **Education:** I'm a dedicated part-time student specializing in **Full Stack Web Development** and **Software Engineering**, balancing my studies with a full-time job. It's a challenging yet rewarding journey!
+- **Curious Techie:** I’m deeply passionate about all things **tech**, from web development to software engineering. I thrive on learning and enjoy experimenting with new technologies in my spare time.
+- **Career & Studies:** I’ve recently completed my studies in **Full Stack Web Development** and **Software Engineering**. While balancing work and academics was challenging, it’s been one of the most rewarding chapters of my life.
+- **Currently Employed:** I’m now working in the tech industry, putting my skills to use professionally. It’s a fulfilling role, and I’m excited about the journey ahead.
 
-## Reach Out to Me 📬
+## GitHub Profile Status ⚙️
 
-- **Get in Touch:** Have a question or want to collaborate? Feel free to **[inbox me on GitHub](https://github.com/NateHann)**. I'm always open to interesting conversations and new opportunities.
+- I’m **in the process** of:
+  - Updating, renaming, and refactoring past projects  
+  - Organizing a range of code written during my studies  
+  - Adding new work from personal, academic, and client-based projects
 
-## A Little More About My World 🌐
+- That said, **updating this profile isn't a top priority right now** since I’m already employed. But rest assured—slowly and surely, I’ll be showcasing a fuller repertoire of:
+  - Projects completed during my studies  
+  - Projects from my consulting work  
+  - Personal builds I’ve created just for fun  
 
-- 🔍 **Exploring:** Whether it's a new programming language, a cutting-edge technology, or an innovative development technique, I'm always on the lookout for something new to learn.
+## Let’s Connect 🤝
+
+- Got a question, idea, or just want to connect?  
+  **[Inbox me on GitHub](https://github.com/NateHann)** — I’m always happy to chat.
 
 ## Stay Tuned! 📌
 
-- **Coming Soon:** Keep an eye out for some creative updates to this README. Once my brain is recharged, I promise to bring something more unique to this space!
+- This README (like my journey) is **a work in progress**. As time allows, I’ll be sharing more of what I’ve built and what I’m building next.
 
 ---
 
-*Note: This README is a work in progress, much like my coding journey. It will evolve and grow, just like my skills and experiences. Stay tuned!*
+*Thanks for stopping by. More to come soon!*
